@@ -33,7 +33,7 @@ Escrevendo a linha de código acima, a saída gerada é:
 
 >(1,1): error CS0103: The name 'console' does not exist in the current context
 
-Que indica a linha e coluna que o erro ocorreu *(1,1)* e também que C# diferencia maiúsculas de minúsculas, significando que o compilador considera as palavras console e *Console* diferentes.
+Que indica a linha e coluna em que o erro ocorreu *(1,1)* e também que C# diferencia maiúsculas de minúsculas, significando que o compilador considera as palavras console e *Console* diferentes.
 
 Usando aspas simples entre a cadeia de caracteres literal, também é retornado uma mensagem de erro:
 

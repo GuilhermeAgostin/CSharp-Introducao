@@ -1,4 +1,3 @@
-# C#
 # Introdução à linguagem
 A linguagem de programação C# permite o desenvolvimento de diversos tipos de aplicativos, como aplicativos móveis, com base em nuvem, financeiros, de processamento de dados e etc, sendo ela fortemente tipada e possuindo uma sintaxe orientada a objetos.
 
